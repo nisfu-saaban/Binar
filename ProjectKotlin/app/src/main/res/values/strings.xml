@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ProjectKotlin</string>
+    <string name="nama">nisfu saaban</string>
+    <string name="user_name">user name</string>
+    <string name="password">password</string>
+    <string name="login_Button">Login</string>
+    <string name="infoProfile">Info</string>
+    <string name="name_person">Name : Nisfu Saaban</string>
+    <string name="number_profile">: 081230399872</string>
+    <string name="message_perofile"> message me :)</string>
+    <string name="email_profile">: nisthy07@gmail.com</string>
+    <string name="adres_person">Adrees : Yogyakarta</string>
+    <string name="status_person">Status : Collage Student</string>
+</resources>
